@@ -5,3 +5,7 @@ A discord bot developed to convert any given audio link into meaningful informat
 🛠️ This project was developed by Faiz and Aadil. 
 
 ![original](https://github.com/ItsFQ/Audio-Transcription-Bot/assets/151128645/bb1c73b5-8c95-4c78-9920-a1ede4b42747)
+
+Video Demo:
+https://github.com/ItsFQ/Audio-Transcription-Bot/assets/151128645/db9a563b-e274-495e-a1b4-f11e7b021e49
+
